@@ -1,0 +1,64 @@
+{
+  "seller": [
+    {
+      "id": "b67e",
+      "name": "Diya",
+      "email": "diya@gamil.com",
+      "password": "qwe123"
+    },
+    {
+      "id": "4023",
+      "name": "Rohan",
+      "email": "rohan.@gmail.com",
+      "password": "qwe123"
+    },
+    {
+      "id": "8866",
+      "name": "geeta",
+      "password": "qwe123",
+      "email": "geeta@gmail.com"
+    },
+    {
+      "id": "0044",
+      "name": "Siya",
+      "password": "qwe123",
+      "email": "siya@gmail.com"
+    },
+    {
+      "id": "1e17",
+      "name": "Pooja",
+      "password": "qwe123",
+      "email": "pooja.@gmail.com"
+    },
+    {
+      "id": "36af",
+      "name": "Sunita",
+      "password": "qwe123",
+      "email": "sunita.@gmail.com"
+    },
+    {
+      "id": "d149",
+      "name": "geeta",
+      "password": "qwe123",
+      "email": "geeta@gmail.com"
+    },
+    {
+      "id": "2b93",
+      "name": "Rajat",
+      "password": "qwe123",
+      "email": "rajat@gmail.com"
+    },
+    {
+      "id": "d712",
+      "name": "Rita",
+      "password": "qwe123",
+      "email": "rita@gmail.com"
+    },
+    {
+      "id": "fef9",
+      "name": "Rohan",
+      "email": "rohan.@gmail.com",
+      "password": "zxc123"
+    }
+  ]
+}
